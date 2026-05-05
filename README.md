@@ -1,11 +1,12 @@
 <div align="center">
 
-# Hey, I'm Mathys 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Mathys;Fullstack+Developer;Building+Essenly+from+scratch;Angular+%7C+NestJS+%7C+TypeScript" />
 
-**Fullstack Developer · MSc Information Systems (EISI) · Alternance @ Nordnet**
+**MSc Information Systems (EISI) · Alternance @ Nordnet**
 
-[![Portfolio / SaaS](https://img.shields.io/badge/🚀_Building-Essenly-6366f1?style=for-the-badge)](https://essenly.fr)
-[![Open to collab](https://img.shields.io/badge/Open_to-Collaboration-22c55e?style=for-the-badge)]()
+![Profile Views](https://komarev.com/ghpvc/?username=mqthys62&style=flat-square&color=6366f1&label=Profile+Views)
+[![Alternance @ Nordnet](https://img.shields.io/badge/Alternance-Nordnet-0057b8?style=flat-square)](https://www.nordnet.fr)
+[![Building Essenly](https://img.shields.io/badge/🚀_Building-Essenly-6366f1?style=flat-square)](https://essenly.fr)
 
 </div>
 
@@ -14,10 +15,39 @@
 ## About me
 
 - 🎓 Finishing my **Master's in Information Systems** (EISI) — alternance at **Nordnet**
-- 🏗️ Founding **[Essenly](https://essenly.fr)** — my own SaaS, built from scratch
+- 🏗️ Founding **[Essenly](https://essenly.fr)** — a SaaS I'm building entirely solo, from idea to production
 - 🤖 Building AI-powered tools connected to enterprise information systems
 - ⚙️ Passionate about clean architecture, automation, and developer experience
 - 🧪 Quality-driven: automated testing (Playwright), CI/CD pipelines, Agile workflows
+
+---
+
+## 🚀 Essenly — Online Booking SaaS
+
+> A full-featured booking platform for beauty & wellness professionals — salons, spas, independent practitioners.
+
+Each organization gets a dedicated space at `essenly.fr/:slug` with a public booking tunnel, a client portal, and an admin panel — all in one app.
+
+**Core features**
+
+- 📅 5-step booking flow — service · practitioner · slot · promo/gift · payment + e-signature
+- 💳 Stripe Connect payments — practitioners paid directly, with deposit or full payment options
+- 🎁 Loyalty program, gift cards, prepaid session packs, promo codes
+- 📍 Home service with automatic travel fee calculation
+- 📊 Analytics: occupancy rate, LTV, no-show tracking, CSV export
+- 📧 Automated notifications — email reminders, SMS, birthday & win-back campaigns
+- 🔐 Strict multi-tenant architecture — full data isolation per organization
+- 📱 PWA-ready with calendar sync (iCal · Google · Outlook)
+
+**Business model** — Freemium SaaS with 4 plans (Free → Solo 19€ → Studio 39€ → Pro 79€/mo)
+
+**Stack**
+
+[![Essenly Stack](https://skillicons.dev/icons?i=angular,ts,scss,nestjs,nodejs,mysql,docker,stripe&theme=dark)](https://skillicons.dev)
+
+`Angular 21` · `NestJS 11` · `TypeORM` · `MariaDB` · `Stripe Connect` · `Cloudflare R2` · `Docker`
+
+[![Visit Essenly](https://img.shields.io/badge/essenly.fr-→-6366f1?style=for-the-badge)](https://essenly.fr)
 
 ---
 
@@ -44,23 +74,12 @@
 ## GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=mqthys62&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqthys62&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&hide=html,css" height="165"/>
-
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=mqthys62&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
----
-
-## What I'm building
-
-**[Essenly](https://essenly.fr)** — A SaaS product I'm building independently.  
-From the idea to production: product design, architecture, development, and deployment. All in.
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mqthys62&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
 
 ---
 
